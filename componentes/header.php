@@ -40,7 +40,7 @@ function headers(){
                             <div class="row">
                                 <div class="col-md-3 col-sm-2">
                                     <div class="logo">
-                                        <a href="index.php"><img src="img/logo/termoIndustrial-logo2.png" alt="TermoIndustrial logo"/></a>
+                                        <a href="index.php"><img src="img/logo/t-header.jpg" alt="TermoIndustrial logo"/></a>
                                     </div>
                                 </div>
                                 <div class="col-md-9 col-sm-10">

@@ -15,11 +15,11 @@ function footers(){
                                             <a href="#"><img src="img/logo/2.png" alt="" /></a>
                                         </div> -->
                                         <div class="footer-address">
-                                            <p><img src="img/footer/t-logo-footer.jpg" alt="" /></p>
+                                            <p><img src="img/footer/T-footer.jpg" alt="" /></p>
                                         </div>
                                     </div>
                                 </div>
-                                
+
                                 <div class="col-md-3 col-sm-3">
                                     <div class="widget mb-30">
                                         <div class="widget-title">
