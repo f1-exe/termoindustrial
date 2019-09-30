@@ -112,7 +112,7 @@
 									<ul class="post-meta ul-subheading">
 										<li>PANEL CUBIERTA POLIESTIRENO EXPANDIDO (EPS)</li>
 									</ul>
-									<p>Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis.</p>
+									<p>Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla. pede sit postale cayetana</p>
 									<a href="prod-techopol.php" class="more">Ver detalle <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 								</div>
 							</div>
@@ -131,6 +131,23 @@
 									</ul>
 									<p>Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis.</p>
 									<a href="prod-termoroof.php" class="more">Ver detalle <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+								</div>
+							</div>
+					</div>
+					<div class="col-md-4">
+							<div class="post-content-area white-bg mb-30 gray-bg">
+								<div class="blog-content-img">
+									<img alt="" src="img/blog/5.jpg">
+								</div>
+								<div class="post-content blog-padd">
+									<h2 class="post-title">
+										<a href="JavaScript:Void(0)">Puertas Frigoríficos</a>
+									</h2>
+									<ul class="post-meta ul-subheading">
+										<li>Puertas Frigorificos</li>
+									</ul>
+									<p>Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis.</p>
+									<a href="prod-frigorificos.php" class="more">Ver detalle <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 								</div>
 							</div>
 					</div>
