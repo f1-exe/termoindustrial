@@ -40,7 +40,7 @@
 		<!-- slider-area-start -->
 		<div class="slider-area">
 			<div class="slider-active owl-carousel">
-				<div class="single-slider ptb-150 bg-opacity" style="background-image:url(img/slider/portada_1.jpg)">
+				<div class="single-slider ptb-150 bg-opacity" style="background-image:url(img/slider/1.jpg)">
 					<div class="container">
 						<div class="slider-text">
 							<h1>TermoIndustrial<br>  Sistemas termo aislantes</h1>
@@ -49,7 +49,7 @@
 						</div>					
 					</div>
 				</div>
-				<div class="single-slider ptb-150 bg-opacity" style="background-image:url(img/slider/portada_2.jpg)">
+				<div class="single-slider ptb-150 bg-opacity" style="background-image:url(img/slider/1.jpg)">
 					<div class="container">
 						<div class="slider-text">
 							<h1>Info sobre seccion <br>  texto suplementario</h1>
@@ -59,7 +59,7 @@
 						</div>					
 					</div>
 				</div>
-				<div class="single-slider ptb-150 bg-opacity" style="background-image:url(img/slider/portada_3.jpg)">
+				<div class="single-slider ptb-150 bg-opacity" style="background-image:url(img/slider/1.jpg)">
 					<div class="container">
 						<div class="slider-text">
 							<h1>Info sobre seccion <br>  texto suplementario</h1>
@@ -107,7 +107,7 @@
 					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
 				</div>
 				<div class="col-lg-6">
-					<img class="img-fluid rounded" src="img/slider/lo-que-hacemos.jpg" alt="lo que hacemos">
+					<img class="img-fluid rounded" src="http://placehold.it/700x450" alt="">
 				</div>
 			</div>
 				<!-- /.row -->

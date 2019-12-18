@@ -70,11 +70,11 @@
 						<div class="col-md-4 mix frigopol Seo col-sm-4">
 							<div class="single-portfolio mb-30">
 								<div class="portfolio-img">
-									<a href="javascript:void(0)"><img src="img/portfolio/800x800_1.jpg" alt="" /></a>
+									<a href="javascript:void(0)"><img src="img/portfolio/florsample.jpg" alt="" /></a>
 								</div>
 								<div class="portfolio-info">
 									<div class="portfolio-icon">
-										<a class="image-link" href="img/portfolio/800x800_1.jpg.jpg"><i class="fa fa-eye"></i></a>
+										<a class="image-link" href="img/portfolio/florsample.jpg"><i class="fa fa-eye"></i></a>
 									</div>
 								</div>
 							</div>
@@ -82,11 +82,11 @@
 						<div class="col-md-4 mix Seo frigopanel col-sm-4">
 							<div class="single-portfolio mb-30">
 								<div class="portfolio-img">
-									<a href="javascript:void(0)"><img src="img/portfolio/800x800_2.jpg" alt="" /></a>
+									<a href="javascript:void(0)"><img src="img/portfolio/2.jpg" alt="" /></a>
 								</div>
 								<div class="portfolio-info">
 									<div class="portfolio-icon">
-										<a class="image-link" href="img/portfolio/800x800_2.jpg"><i class="fa fa-eye"></i></a>
+										<a class="image-link" href="img/portfolio/2.jpg"><i class="fa fa-eye"></i></a>
 									</div>
 								</div>
 							</div>
@@ -94,11 +94,11 @@
 						<div class="col-md-4 mix frigopol design col-sm-4">
 							<div class="single-portfolio mb-30">
 								<div class="portfolio-img">
-									<a href="javascript:void(0)"><img src="img/portfolio/800x800_3.jpg" alt="" /></a>
+									<a href="javascript:void(0)"><img src="img/portfolio/3.jpg" alt="" /></a>
 								</div>
 								<div class="portfolio-info">
 									<div class="portfolio-icon">
-										<a class="image-link" href="img/portfolio/800x800_3.jpg"><i class="fa fa-eye"></i></a>
+										<a class="image-link" href="img/portfolio/3.jpg"><i class="fa fa-eye"></i></a>
 									</div>
 								</div>
 							</div>
@@ -106,11 +106,11 @@
 						<div class="col-md-4 mix frigopanel col-sm-4">
 							<div class="single-portfolio mb-30">
 								<div class="portfolio-img">
-									<a href="javascript:void(0)"><img src="img/portfolio/800x800_4.jpg" alt="" /></a>
+									<a href="javascript:void(0)"><img src="img/portfolio/4.jpg" alt="" /></a>
 								</div>
 								<div class="portfolio-info">
 									<div class="portfolio-icon">
-										<a class="image-link" href="img/portfolio/800x800_4.jpg"><i class="fa fa-eye"></i></a>
+										<a class="image-link" href="img/portfolio/4.jpg"><i class="fa fa-eye"></i></a>
 									</div>
 								</div>
 							</div>
@@ -118,11 +118,11 @@
 						<div class="col-md-4 mix frigopol col-sm-4">
 							<div class="single-portfolio mb-30">
 								<div class="portfolio-img">
-									<a href="javascript:void(0)"><img src="img/portfolio/800x800_5.jpg" alt="" /></a>
+									<a href="javascript:void(0)"><img src="img/portfolio/5.jpg" alt="" /></a>
 								</div>
 								<div class="portfolio-info">
 									<div class="portfolio-icon">
-										<a class="image-link" href="img/portfolio/800x800_5.jpg"><i class="fa fa-eye"></i></a>
+										<a class="image-link" href="img/portfolio/5.jpg"><i class="fa fa-eye"></i></a>
 									</div>
 								</div>
 							</div>
@@ -130,11 +130,11 @@
 						<div class="col-md-4 mix frigopanel Seo col-sm-4">
 							<div class="single-portfolio mb-30">
 								<div class="portfolio-img">
-									<a href="javascript:void(0)"><img src="img/portfolio/800x800_6.jpg" alt="" /></a>
+									<a href="javascript:void(0)"><img src="img/portfolio/6.jpg" alt="" /></a>
 								</div>
 								<div class="portfolio-info">
 									<div class="portfolio-icon">
-										<a class="image-link" href="img/portfolio/800x800_6.jpg"><i class="fa fa-eye"></i></a>
+										<a class="image-link" href="img/portfolio/6.jpg"><i class="fa fa-eye"></i></a>
 									</div>
 								</div>
 							</div>
@@ -142,11 +142,11 @@
 						<div class="col-md-4 mix frigopanel col-sm-4">
 							<div class="single-portfolio mb-30">
 								<div class="portfolio-img">
-									<a href="javascript:void(0)"><img src="img/portfolio/800x800_7.jpg" alt="" /></a>
+									<a href="javascript:void(0)"><img src="img/portfolio/7.jpg" alt="" /></a>
 								</div>
 								<div class="portfolio-info">
 									<div class="portfolio-icon">
-										<a class="image-link" href="img/portfolio/800x800_7.jpg"><i class="fa fa-eye"></i></a>
+										<a class="image-link" href="img/portfolio/7.jpg"><i class="fa fa-eye"></i></a>
 									</div>
 								</div>
 							</div>
@@ -154,11 +154,11 @@
 						<div class="col-md-4 mix frigopol col-sm-4">
 							<div class="single-portfolio mb-30">
 								<div class="portfolio-img">
-									<a href="#"><img src="img/portfolio/800x800_8.jpg" alt="" /></a>
+									<a href="#"><img src="img/portfolio/8.jpg" alt="" /></a>
 								</div>
 								<div class="portfolio-info">
 									<div class="portfolio-icon">
-										<a class="image-link" href="img/portfolio/800x800_8.jpg"><i class="fa fa-eye"></i></a>
+										<a class="image-link" href="img/portfolio/8.jpg"><i class="fa fa-eye"></i></a>
 									</div>
 								</div>
 							</div>
@@ -166,11 +166,11 @@
 						<div class="col-md-4 mix frigopol col-sm-4">
 							<div class="single-portfolio mb-30">
 								<div class="portfolio-img">
-									<a href="javascript:void(0)"><img src="img/portfolio/800x800_9.jpg" alt="" /></a>
+									<a href="javascript:void(0)"><img src="img/portfolio/9.jpg" alt="" /></a>
 								</div>
 								<div class="portfolio-info">
 									<div class="portfolio-icon">
-										<a class="image-link" href="img/portfolio/800x800_9.jpg"><i class="fa fa-eye"></i></a>
+										<a class="image-link" href="img/portfolio/9.jpg"><i class="fa fa-eye"></i></a>
 									</div>
 								</div>
 							</div>
@@ -178,11 +178,11 @@
 						<div class="col-md-4 mix frigopanel col-sm-4">
 							<div class="single-portfolio mb-30">
 								<div class="portfolio-img">
-									<a href="javascript:void(0)"><img src="img/portfolio/800x800_10.jpg" alt="" /></a>
+									<a href="javascript:void(0)"><img src="img/portfolio/9.jpg" alt="" /></a>
 								</div>
 								<div class="portfolio-info">
 									<div class="portfolio-icon">
-										<a class="image-link" href="img/portfolio/800x800_10.jpg"><i class="fa fa-eye"></i></a>
+										<a class="image-link" href="img/portfolio/9.jpg"><i class="fa fa-eye"></i></a>
 									</div>
 								</div>
 							</div>
@@ -190,11 +190,11 @@
 						<div class="col-md-4 mix techopol col-sm-4">
 							<div class="single-portfolio mb-30">
 								<div class="portfolio-img">
-									<a href="javascript:void(0)"><img src="img/portfolio/800x800_11.jpg" alt="" /></a>
+									<a href="javascript:void(0)"><img src="img/portfolio/9.jpg" alt="" /></a>
 								</div>
 								<div class="portfolio-info">
 									<div class="portfolio-icon">
-										<a class="image-link" href="img/portfolio/800x800_11.jpg"><i class="fa fa-eye"></i></a>
+										<a class="image-link" href="img/portfolio/9.jpg"><i class="fa fa-eye"></i></a>
 									</div>
 								</div>
 							</div>
@@ -202,11 +202,11 @@
 						<div class="col-md-4 mix techopol col-sm-4">
 							<div class="single-portfolio mb-30">
 								<div class="portfolio-img">
-									<a href="javascript:void(0)"><img src="img/portfolio/800x800_12.jpg" alt="" /></a>
+									<a href="javascript:void(0)"><img src="img/portfolio/9.jpg" alt="" /></a>
 								</div>
 								<div class="portfolio-info">
 									<div class="portfolio-icon">
-										<a class="image-link" href="img/portfolio/800x800_12.jpg"><i class="fa fa-eye"></i></a>
+										<a class="image-link" href="img/portfolio/9.jpg"><i class="fa fa-eye"></i></a>
 									</div>
 								</div>
 							</div>
@@ -214,11 +214,11 @@
 						<div class="col-md-4 mix techopol col-sm-4">
 							<div class="single-portfolio mb-30">
 								<div class="portfolio-img">
-									<a href="javascript:void(0)"><img src="img/portfolio/800x800_13.jpg" alt="" /></a>
+									<a href="javascript:void(0)"><img src="img/portfolio/9.jpg" alt="" /></a>
 								</div>
 								<div class="portfolio-info">
 									<div class="portfolio-icon">
-										<a class="image-link" href="img/portfolio/800x800_13.jpg"><i class="fa fa-eye"></i></a>
+										<a class="image-link" href="img/portfolio/9.jpg"><i class="fa fa-eye"></i></a>
 									</div>
 								</div>
 							</div>
@@ -226,11 +226,11 @@
 						<div class="col-md-4 mix techopol col-sm-4">
 							<div class="single-portfolio mb-30">
 								<div class="portfolio-img">
-									<a href="javascript:void(0)"><img src="img/portfolio/800x800_14.jpg" alt="" /></a>
+									<a href="javascript:void(0)"><img src="img/portfolio/9.jpg" alt="" /></a>
 								</div>
 								<div class="portfolio-info">
 									<div class="portfolio-icon">
-										<a class="image-link" href="img/portfolio/800x800_15.jpg"><i class="fa fa-eye"></i></a>
+										<a class="image-link" href="img/portfolio/9.jpg"><i class="fa fa-eye"></i></a>
 									</div>
 								</div>
 							</div>
@@ -238,11 +238,11 @@
 						<div class="col-md-4 mix techopol col-sm-4">
 							<div class="single-portfolio mb-30">
 								<div class="portfolio-img">
-									<a href="javascript:void(0)"><img src="img/portfolio/800x800_16.jpg" alt="" /></a>
+									<a href="javascript:void(0)"><img src="img/portfolio/9.jpg" alt="" /></a>
 								</div>
 								<div class="portfolio-info">
 									<div class="portfolio-icon">
-										<a class="image-link" href="img/portfolio/800x800_16.jpg"><i class="fa fa-eye"></i></a>
+										<a class="image-link" href="img/portfolio/9.jpg"><i class="fa fa-eye"></i></a>
 									</div>
 								</div>
 							</div>
@@ -250,11 +250,11 @@
 						<div class="col-md-4 mix techopol col-sm-4">
 							<div class="single-portfolio mb-30">
 								<div class="portfolio-img">
-									<a href="javascript:void(0)"><img src="img/portfolio/800x800_17.jpg" alt="" /></a>
+									<a href="javascript:void(0)"><img src="img/portfolio/9.jpg" alt="" /></a>
 								</div>
 								<div class="portfolio-info">
 									<div class="portfolio-icon">
-										<a class="image-link" href="img/portfolio/800x800_17.jpg"><i class="fa fa-eye"></i></a>
+										<a class="image-link" href="img/portfolio/9.jpg"><i class="fa fa-eye"></i></a>
 									</div>
 								</div>
 							</div>
@@ -262,11 +262,11 @@
 						<div class="col-md-4 mix frigopol col-sm-4">
 							<div class="single-portfolio mb-30">
 								<div class="portfolio-img">
-									<a href="javascript:void(0)"><img src="img/portfolio/800x800_18.jpg" alt="" /></a>
+									<a href="javascript:void(0)"><img src="img/portfolio/9.jpg" alt="" /></a>
 								</div>
 								<div class="portfolio-info">
 									<div class="portfolio-icon">
-										<a class="image-link" href="img/portfolio/800x800_18.jpg"><i class="fa fa-eye"></i></a>
+										<a class="image-link" href="img/portfolio/9.jpg"><i class="fa fa-eye"></i></a>
 									</div>
 								</div>
 							</div>
