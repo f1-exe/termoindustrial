@@ -57,7 +57,7 @@ function footers(){
                                                             <strong>
                                                                 <i class="fa fa-envelope"></i>
                                                             </strong>
-                                                        contacto@termoindustrial.cl
+                                                        ventas@termoindustrial.cl
                                                         </a>
                                                     </p>
                                                 </li>
@@ -77,7 +77,7 @@ function footers(){
                                                             <strong>
                                                                 <i class="fa fa-map-marker"></i>
                                                             </strong> 
-                                                            Avenida La Montaña #59, Colina
+                                                            Av. La Montaña #59, Colina, Chile
                                                         </a>
                                                     </p>
                                                 </li> 

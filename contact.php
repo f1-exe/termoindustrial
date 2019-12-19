@@ -1,93 +1,103 @@
-<?php 
-	include 'componentes/header.php';
-	include 'componentes/footer.php';
+<?php
+include 'componentes/header.php';
+include 'componentes/footer.php';
 ?>
 <!doctype html>
 <html class="no-js" lang="">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>TermoIndustrial | Contacto</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<link rel="apple-touch-icon" href="apple-touch-icon.png">
-		<link href="img/ico/termoIndustrial-logo.ico" rel="shortcut icon" type="image/x-icon">
-        <!-- Place favicon.ico in the root directory -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>TermoIndustrial | Contacto</title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/font-awesome.min.css">
-        <link rel="stylesheet" href="css/meanmenu.css">
-        <link rel="stylesheet" href="style.css">
-        <link rel="stylesheet" href="css/responsive.css">
-        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
-    </head>
-    <body>
-        <!--[if lt IE 8]>
+	<link rel="apple-touch-icon" href="apple-touch-icon.png">
+	<link href="img/ico/termoIndustrial-logo.ico" rel="shortcut icon" type="image/x-icon">
+	<!-- Place favicon.ico in the root directory -->
+
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/meanmenu.css">
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="css/responsive.css">
+	<script src="js/vendor/modernizr-2.8.3.min.js"></script>
+</head>
+
+<body>
+	<!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 		<![endif]-->
-		
-		<!-- header start -->
-		<?php echo headers();?>
-		<!-- header end -->
 
-		<!-- breadcrumb-area-start -->
-		<div class="breadcrumb-area bg-color ptb-100">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="breadcrumb-title text-center">
-							<h1>Contacto</h1>
-							<div class="breadcrumb-menu">
+	<!-- header start -->
+	<?php echo headers(); ?>
+	<!-- header end -->
+
+	<!-- breadcrumb-area-start -->
+	<div class="breadcrumb-area bg-color ptb-100">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="breadcrumb-title text-center">
+						<h1>Contacto</h1>
+						<div class="breadcrumb-menu">
 							<ul>
 								<li><a href="index.php">Inicio</a></li>
 								<li>Contacto</li>
 							</ul>
 						</div>
-						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		<!-- breadcrumb-area-end -->
+	</div>
+	<!-- breadcrumb-area-end -->
 
-		<!-- contact-middle-area-start -->
-		<div class="contact-middle-area pt-100 pb-70">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-4 col-sm-4">
-						<div class="single-contact-middle mb-30">
-							<div class="middle-text">
-								<h4>Chief Editor</h4>
-								<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In dui magna posuere.</p>
-								<a href="#">chief@smoth.com</a>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-4">
-						<div class="single-contact-middle mb-30">
-							<div class="middle-text">
-								<h4>Technical Director</h4>
-								<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In dui magna posuere.</p>
-								<a href="#">director@smoth.com</a>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-4">
-						<div class="single-contact-middle mb-30">
-							<div class="middle-text">
-								<h4>Lead Designer</h4>
-								<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In dui magna posuere.</p>
-								<a href="#">designer@smoth.com</a>
-							</div>
-						</div>
+
+
+
+
+	<div class="contact-bottom-area ptb-100">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 col-md-offset-3 col-sm-12">
+					<div class="contact-bottom-text text-center">
+
+						<h2>Hablemos!</h2>
+						<p>Escríbenos un mensaje con cualqueir duda para que podamos ayudarte, te responderemos a la brevedad.</p>
 					</div>
 				</div>
 			</div>
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 col-sm-12">
+					<form id="contact-form" action="mail.php" method="post">
+						<div class="row">
+							<div class="col-md-6 col-sm-6">
+								<input type="text" placeholder="Nombre" name="nombre">
+							</div>
+							<div class="col-md-6 col-sm-6">
+								<input type="email" placeholder="Email" name="email">
+							</div>
+							<div class="col-md-12 col-sm-12">
+								<input type="text" placeholder="telefono" name="telefono">
+							</div>
+							<div class="col-md-12">
+								<textarea id="message" placeholder="Siéntete libre de escribirnos cualquier cosa, dudas, consultas por productos, solicitar cotizaciones, etc. Estamos a tu disposición!" rows="6" cols="30" name="mensaje"></textarea>
+							</div>
+							<div class="col-md-12 text-center">
+								<button class="btn" type="submit">Enviar!</button>
+							</div>
+						</div>
+					</form>
+					<p class="form-message"></p>
+				</div>
+			</div>
 		</div>
-		<!-- contact-middle-area-end -->
+	</div>
 
-		<!-- map -->
+	<div class="container">
+		<div class="row">
+			<!-- map -->
 			<div class="col-sm-12 col-md  col-6 col bg-color">
 				<div class="container-fluid">
 					<div class="row">
@@ -95,64 +105,30 @@
 					</div>
 				</div>
 			</div>
-	  <!-- map-end -->
-	  
+			<!-- map-end -->
 
-		<div class="contact-bottom-area ptb-100">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6 col-md-offset-3 col-sm-12">
-						<div class="contact-bottom-text text-center">
-							<br>
-							<br>
-							<br>
-							<br>
-							<br>
-							<h2>Hablemos!</h2>
-							<p>Texto de ejemplo relacionado para el formulario de contacto, deberia incluir una invitacion de confianza y seguridad para sus clientes y o potenciales clientes.</p>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-8 col-md-offset-2 col-sm-12">
-						<form id="contact-form" action="mail.php" method="post">
-							<div class="row">
-								<div class="col-md-6 col-sm-6">
-									<input type="text"  placeholder="Nombre" name="nombre">
-								</div>
-								<div class="col-md-6 col-sm-6">
-									<input type="email"  placeholder="Email" name="email">
-								</div>
-								<div class="col-md-12 col-sm-12">
-									<input type="text"  placeholder="telefono" name="telefono">
-								</div>
-								<div class="col-md-12">
-									<textarea id="message" placeholder="Siéntete libre de escribirnos cualquier cosa, dudas, consultas por productos, solicitar cotizaciones, etc. Estamos a tu disposición!" rows="6" cols="30" name="mensaje"></textarea>
-								</div>
-								<div class="col-md-12 text-center">
-									<button class="btn" type="submit">Enviar!</button>
-								</div>
-							</div>
-						</form>
-						<p class="form-message"></p>
-					</div>
-				</div>				
-			</div>
 		</div>
+	</div>
 
-		<!-- footer start -->
-		<?php echo footers();?>
-		<!-- footer end -->
+	<br>
+	<br>
+	<br>
+	<br>
 
-        <script src="js/vendor/jquery-1.12.0.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/jquery.meanmenu.js"></script>
-		<script src="js/owl.carousel.min.js"></script>
-		<script src="js/jquery.mixitup.min.js"></script>
-		<script src="js/jquery.magnific-popup.min.js"></script>
-		<script src="js/contact.js"></script>
-		<script src="js/jquery.counterup.min.js"></script>
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
-    </body>
+	<!-- footer start -->
+	<?php echo footers(); ?>
+	<!-- footer end -->
+
+	<script src="js/vendor/jquery-1.12.0.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery.meanmenu.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/jquery.mixitup.min.js"></script>
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/contact.js"></script>
+	<script src="js/jquery.counterup.min.js"></script>
+	<script src="js/plugins.js"></script>
+	<script src="js/main.js"></script>
+</body>
+
 </html>

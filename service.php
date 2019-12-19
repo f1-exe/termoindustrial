@@ -73,13 +73,13 @@
 							</div>
 							<div class="post-content blog-padd">
 								<h2 class="post-title">
-									<a href="JavaScript:Void(0)">Frigopol</a>
+									<a href="JavaScript:Void(0)">FrigoPol</a>
 								</h2>
 								<ul class="post-meta ul-subheading">
 									<li>PANEL POLIESTIRENO EXPANDIDO (EPS)</li>
 								</ul>
 								<p>Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis.</p>
-								<a href="prod-frigopol.php" class="more">Ver detalle <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+								<a href="prod-frigopol.php" class="more">Ver ficha técnica <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 							</div>
 						</div>
 					</div>
@@ -90,13 +90,13 @@
 							</div>
 							<div class="post-content blog-padd">
 								<h2 class="post-title">
-									<a href="JavaScript:Void(0)">Frigopur - PIR</a>
+									<a href="JavaScript:Void(0)">FrigoPur - PIR</a>
 								</h2>
 								<ul class="post-meta ul-subheading">
 									<li> PANEL POLIURETANO INYECTADO CONTINUO</li>
 								</ul>
 								<p>Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis.</p>
-								<a href="prod-frigopur.php" class="more">Ver detalle <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+								<a href="prod-frigopur.php" class="more">Ver ficha técnica <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 							</div>
 						</div>
 					</div>
@@ -107,13 +107,13 @@
 								</div>
 								<div class="post-content blog-padd">
 									<h2 class="post-title">
-										<a href="JavaScript:Void(0)">Techopol</a>
+										<a href="JavaScript:Void(0)">TechoPol</a>
 									</h2>
 									<ul class="post-meta ul-subheading">
 										<li>PANEL CUBIERTA POLIESTIRENO EXPANDIDO (EPS)</li>
 									</ul>
 									<p>Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla. pede sit postale cayetana</p>
-									<a href="prod-techopol.php" class="more">Ver detalle <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+									<a href="prod-techopol.php" class="more">Ver ficha técnica <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 								</div>
 							</div>
 					</div>
@@ -130,7 +130,7 @@
 										<li>TermoRoof Pol DZ-4</li>
 									</ul>
 									<p>Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis.</p>
-									<a href="prod-termoroof.php" class="more">Ver detalle <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+									<a href="prod-termoroof.php" class="more">Ver ficha técnica <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 								</div>
 							</div>
 					</div>
@@ -147,7 +147,7 @@
 										<li>Puertas Frigorificos</li>
 									</ul>
 									<p>Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis.</p>
-									<a href="prod-frigorificos.php" class="more">Ver detalle <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+									<a href="prod-frigorificos.php" class="more">Ver ficha técnica <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 								</div>
 							</div>
 					</div>

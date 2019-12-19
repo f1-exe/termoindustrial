@@ -61,74 +61,13 @@
 				<div class="row">
 					<div class="col-md-offset-3 col-md-6">
 						<div class="section-title text-center">
-							<h2>Nuestro equipo</h2>
-							<p>Somos mentes inquietas y creativas</p>
+							<h2>Nuestra Historia</h2>
+							<p>Conoce un poco más sobre quiénes somos en TermoIndustrial</p>
 						</div>					
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-md-3 col-sm-3">
-						<div class="single-team mb-30">
-							<div class="team-item">
-								<div class="team-img">
-									<a href="javascript:void(0)"><img src="img/team/1.jpg" alt="" /></a>
-								</div>
-								<div class="team-social">
-									<h2 class="text-white">Michael Thomas</h2>
-									<span class="text-white">Gerente de ventas</span>
-								</div>
-							</div>							
-						</div>
-					</div>
-					<div class="col-md-3 col-sm-3">
-						<div class="single-team mb-30">
-							<div class="team-item">
-								<div class="team-img">
-									<a href="javascript:void(0)"><img src="img/team/2.jpg" alt="" /></a>
-								</div>
-								<div class="team-social">
-									<h2 class="text-white">Michael Thomas</h2>
-									<span class="text-white">Gerente de ventas</span>
-								</div>
-							</div>							
-						</div>
-					</div>
-					<div class="col-md-3 col-sm-3">
-						<div class="single-team mb-30">
-							<div class="team-item">
-								<div class="team-img">
-									<a href="javascript:void(0)"><img src="img/team/3.jpg" alt="" /></a>
-								</div>
-								<div class="team-social">
-									<h2 class="text-white">Michael Thomas</h2>
-									<span class="text-white">Gerente de ventas</span>
-								</div>
-							</div>							
-						</div>
-					</div>
-					<div class="col-md-3 col-sm-3">
-						<div class="single-team mb-30">
-							<div class="team-item">
-								<div class="team-img">
-									<a href="javascript:void(0)"><img src="img/team/4.jpg" alt="" /></a>
-								</div>
-								<div class="team-social">
-									<h2 class="text-white">Michael Thomas</h2>
-									<span class="text-white">Gerente de ventas</span>
-								</div>
-							</div>						
-						</div>
-					</div>
-				</div>	
-			</div>
-		</div>
-		<!-- our team end -->
-
-		<!-- about-area-start -->
-		<div class="about-area pt-100 pb-10 gray-bg">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12 col-sm-12 ">
+				
+				<div class="col-md-12 col-sm-12 ">
 						<div class="single-about mb-30">
 							<div class="about-text">
 								<h2>Nuestra historia</h2>
@@ -144,21 +83,22 @@
 								
 							</div>
 						</div>
-					</div>
-					
 				</div>
+				
 			</div>
 		</div>
-		<!-- about-area-end -->
+		<!-- our team end -->
+
+		
 
 		<!-- service-area-start -->
-		<div class="service-area pt-80 pb-30">
+		<div class="bg-color service-area pt-80 pb-30">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-3 col-md-6">
 						<div class="section-title text-center">
 							<h2>Nuestros principales valores</h2>
-							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+							<p>Para nosotros como empresa es de vital importancia actuar siempre de acuerdo a las mejores prácticas del negocio, por eso, nuestro sello es trabajar siempre con los siguientes valores</p>
 						</div>					
 					</div>
 				</div>
@@ -166,33 +106,33 @@
 					<div class="col-md-4 col-sm-4">
 						<div class="single-service text-center mb-70">
 							<div class="service-icon">
-								<i class="fa fa-image"></i>
+								<i class="fa fa-bullseye"></i>
 							</div>
 							<div class="service-text">
-								<h4>Creative ideas</h4>
-								<p> Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet accusam. </p>
+								<h4>Orientado a objetivos</h4>
+								<p>Nunca perdemos el enfoque de que queremos lograr como empresa, siempre estamos orientados a resultados</p>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-4">
 						<div class="single-service text-center mb-70">
 							<div class="service-icon">
-								<i class="fa fa-lightbulb-o"></i>
+								<i class="fa fa-handshake-o" aria-hidden="true"></i>
 							</div>
 							<div class="service-text">
-								<h4>Creative ideas</h4>
-								<p> Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet accusam. </p>
+								<h4>Confianza</h4>
+								<p>Trabajamos interna como externamente este valor escencial en cualquier industria, para brindar seguridad a todos los que nos rodean</p>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-4">
 						<div class="single-service text-center mb-70">
 							<div class="service-icon">
-								<i class="fa fa-code"></i>
+								<i class="fa fa-check" aria-hidden="true"></i>
 							</div>
 							<div class="service-text">
-								<h4>Pixel Perfect design</h4>
-								<p> Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet accusam. </p>
+								<h4>Responsables</h4>
+								<p>Nos esforzamos siempre por cumplir con lo que decimos, este valor nos ha ayudado a estar donde estamos hoy</p>
 							</div>
 						</div>
 					</div>
@@ -202,30 +142,30 @@
 								<i class="fa fa-users"></i>
 							</div>
 							<div class="service-text">
-								<h4>Customers support</h4>
-								<p> Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet accusam. </p>
+								<h4>Trabajo en conjunto</h4>
+								<p>Aprender a trabajar en equipo con nuestros clientes es un paso grande que estuvimos dispuesto a dar por ellos</p>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-4">
 						<div class="single-service text-center mb-70">
 							<div class="service-icon">
-								<i class="fa fa-tablet"></i>
+								<i class="fa fa-calendar-check-o" aria-hidden="true"></i>
 							</div>
 							<div class="service-text">
-								<h4>Responsive Design</h4>
-								<p> Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet accusam. </p>
+								<h4>Puntuales</h4>
+								<p>Valor imprescindible que habla por ti</p>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-4">
 						<div class="single-service text-center mb-70">
 							<div class="service-icon">
-								<i class="fa fa-plane"></i>
+								<i class="fa fa-assistive-listening-systems" aria-hidden="true"></i>
 							</div>
 							<div class="service-text">
-								<h4>Seo ready</h4>
-								<p> Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet accusam. </p>
+								<h4>Abiertos a escuchar</h4>
+								<p>Las puertas al diálogo siempre estan abiertas en TermoIndustrial, estamos prestos a escucharte!</p>
 							</div>
 						</div>
 					</div>

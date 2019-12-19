@@ -49,8 +49,28 @@ function headers(){
                                             <ul>
                                                 <li><a href="index.php">Inicio</a></li>
                                                 <li><a href="about.php">Nosotros</a></li>
-                                                <li><a href="service.php">Productos</a></li>
-                                                <li><a href="portfolio.php">Obras</a></li>
+                                                <li>
+                                                   
+                                                    <a href="service.php">Productos 
+                                                        <i class="fa fa-angle-down"></i>
+                                                    </a>
+                                                   
+                                                    <ul class="submenu">
+                                                        <li><a href="prod-frigopol.php">FrigoPol</a></li>
+                                                        <li><a href="prod-frigopur.php">FrigoPur - PIR</a></li>
+                                                        <li><a href="prod-techopol.php">TechoPol</a></li>
+                                                        <li><a href="prod-termoroof.php">TermoRoof</a></li>
+                                                        <li><a href="prod-frigorificos.php">Puertas Frigoríficos</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <a href="portfolio.php">Obras
+                                                        <i class="fa fa-angle-down"></i>
+                                                    </a>
+                                                    <ul class="submenu">
+                                                        <li><a href="portfolio-column-2.html">Fotos/Clientes</a></li>
+                                                    </ul>
+                                                </li>
                                                 <li><a href="contact.php">Contacto</a></li>
                                             </ul>
                                         </nav>

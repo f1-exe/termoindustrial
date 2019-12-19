@@ -14,6 +14,7 @@ $('.main-menu nav').meanmenu({
 $('.slider-active').owlCarousel({
     loop:true,
     nav:true,
+    autoplay:true,
 	navText:['<i class="fa fa-angle-left"></i>','<i class="fa fa-angle-right"></i>'],
     responsive:{
         0:{
@@ -73,7 +74,7 @@ $('.brand-active').owlCarousel({
     loop:true,
     nav:false,
 	dots:false,
-	autoplay:false,
+	autoplay:true,
 	navText:['<i class="fa fa-angle-left"></i>','<i class="fa fa-angle-right"></i>'],
     responsive:{
         0:{
