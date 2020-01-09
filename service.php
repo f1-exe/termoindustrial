@@ -78,7 +78,7 @@
 								<ul class="post-meta ul-subheading">
 									<li>PANEL POLIESTIRENO EXPANDIDO (EPS)</li>
 								</ul>
-								<p>Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis.</p>
+								<p>Diseñado para refrigeración comercial e industrial de exigente especificación y excelente aislamiento térmico, de alta resistencia mecánica bajo peso e instalación fácil y rápida.</p>
 								<a href="prod-frigopol.php" class="more">Ver ficha técnica <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 							</div>
 						</div>
@@ -95,7 +95,7 @@
 								<ul class="post-meta ul-subheading">
 									<li> PANEL POLIURETANO INYECTADO CONTINUO</li>
 								</ul>
-								<p>Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis.</p>
+								<p>Son altamente recomendados para cámaras frigoríﬁcas en general, especialmente para baja temperatura, ofreciendo resistencia superior, alto poder de aislamiento térmico.</p>
 								<a href="prod-frigopur.php" class="more">Ver ficha técnica <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 							</div>
 						</div>
@@ -112,7 +112,7 @@
 									<ul class="post-meta ul-subheading">
 										<li>PANEL CUBIERTA POLIESTIRENO EXPANDIDO (EPS)</li>
 									</ul>
-									<p>Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla. pede sit postale cayetana</p>
+									<p>Espuma rígida de color blanco de gran trabajabilidad, caracterizada por un termoplástico celular de baja densidad físico-mecánica.</p>
 									<a href="prod-techopol.php" class="more">Ver ficha técnica <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 								</div>
 							</div>
@@ -129,7 +129,7 @@
 									<ul class="post-meta ul-subheading">
 										<li>TermoRoof Pol DZ-4</li>
 									</ul>
-									<p>Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis.</p>
+									<p>Con el ancho útil más grande del mercado, es rápido y fácil de ensamblar y puede generar hasta un 70% de ahorro en estructura. Resiste golpes, pequeños impactos y efectos climáticos, y ofrece una excelente estanqueidad (fijación trapezoidal fuera de la línea de flotación). Es adecuado para su uso en edificios industriales, comerciales y residenciales.</p>
 									<a href="prod-termoroof.php" class="more">Ver ficha técnica <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 								</div>
 							</div>

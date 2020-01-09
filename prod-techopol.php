@@ -86,7 +86,7 @@
                                 </ul>
                             </div>
                             <div class="col-lg-6">
-                                <img class="img-fluid rounded" src="http://placehold.it/700x450" alt="">
+                                <img class="img-fluid rounded" src="img/productos/techopol/carac_grales.jpeg" alt="TermoIndustrial techopol">
                             </div>
                         </div>  
                             <!-- /.row -->
@@ -110,7 +110,7 @@
                                 <h2>Cracterísticas físicas del techopol</h2>
                             </div>
                             <div class="col-lg-12 text-center">
-                                 <img class="img-fluid rounded" src="http://placehold.it/700x450" alt="">
+                                 <img class="img-fluid rounded" src="img/productos/techopol/carac_fisicas.jpeg" alt="TermoIndustrial techopol">
                             </div>
                         </div>  
                             <!-- /.row -->
@@ -139,21 +139,16 @@
                                 <ol class="carousel-indicators">
                                     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                                     <li data-target="#myCarousel" data-slide-to="1"></li>
-                                    <li data-target="#myCarousel" data-slide-to="2"></li>
                                 </ol>
 
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
-                                    <img src="img/slider/1.jpg" alt="Los Angeles">
+                                    <img src="img/productos/techopol/carac_fisicas1.jpeg" alt="TermoIndustrial techopol">
                                     </div>
 
                                     <div class="item">
-                                    <img src="img/slider/1.jpg" alt="Chicago">
-                                    </div>
-
-                                    <div class="item">
-                                    <img src="img/slider/1.jpg" alt="New York">
+                                    <img src="img/productos/techopol/carac_fisicas2.jpeg" alt="TermoIndustrial techopol">
                                     </div>
                                 </div>
 
@@ -197,21 +192,16 @@
                                     <ol class="carousel-indicators">
                                         <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
                                         <li data-target="#myCarousel2" data-slide-to="1"></li>
-                                        <li data-target="#myCarousel2" data-slide-to="2"></li>
                                     </ol>
     
                                     <!-- Wrapper for slides -->
                                     <div class="carousel-inner">
                                         <div class="item active">
-                                        <img src="img/slider/3.jpg" alt="Los Angeles">
+                                        <img src="img/productos/techopol/aplicado1.jpeg" alt="TermoIndustrial techopol">
                                         </div>
     
                                         <div class="item">
-                                        <img src="img/slider/3.jpg" alt="Chicago">
-                                        </div>
-    
-                                        <div class="item">
-                                        <img src="img/slider/3.jpg" alt="New York">
+                                        <img src="img/productos/techopol/aplicado2.jpeg" alt="TermoIndustrial techopol">
                                         </div>
                                     </div>
     

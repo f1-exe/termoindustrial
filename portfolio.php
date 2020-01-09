@@ -341,7 +341,7 @@ include 'componentes/footer.php';
 		<!-- Features Section -->
 		<div class="row">
 			<div class="col-lg-6">
-				<h2>Más de nuestros clintes</h2>
+				<h2>Más de nuestros clientes</h2>
 				<ul>
 					<li>Construcción civil industrial</li>
 					<li>Construcción civil residencial</li>

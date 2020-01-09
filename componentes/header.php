@@ -68,7 +68,7 @@ function headers(){
                                                         <i class="fa fa-angle-down"></i>
                                                     </a>
                                                     <ul class="submenu">
-                                                        <li><a href="portfolio-column-2.html">Fotos/Clientes</a></li>
+                                                        <li><a href="portfolio.php">Fotos/Clientes</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a href="contact.php">Contacto</a></li>

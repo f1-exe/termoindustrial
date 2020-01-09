@@ -80,7 +80,7 @@
                                 </ul>
                             </div>
                             <div class="col-lg-6">
-                                <img class="img-fluid rounded" src="http://placehold.it/700x450" alt="">
+                                <img class="img-fluid rounded" src="img/productos/termoroof/carac_grales.jpeg" alt="TermoIndustrial termoroof">
                             </div>
                         </div>  
                             <!-- /.row -->
@@ -104,7 +104,7 @@
                                 <h2>Cracterísticas físicas del termoRoof</h2>
                             </div>
                             <div class="col-lg-12 text-center">
-                                 <img class="img-fluid rounded" src="http://placehold.it/700x450" alt="">
+                                 <img class="img-fluid rounded" src="img/productos/termoroof/tabla_carac_fisica.jpeg" alt="TermoIndustrial termoRoof">
                             </div>
                         </div>  
                             <!-- /.row -->
@@ -132,22 +132,13 @@
                                 <!-- Indicators -->
                                 <ol class="carousel-indicators">
                                     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                                    <li data-target="#myCarousel" data-slide-to="1"></li>
-                                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                                 
                                 </ol>
 
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
-                                    <img src="img/slider/1.jpg" alt="Los Angeles">
-                                    </div>
-
-                                    <div class="item">
-                                    <img src="img/slider/1.jpg" alt="Chicago">
-                                    </div>
-
-                                    <div class="item">
-                                    <img src="img/slider/1.jpg" alt="New York">
+                                    <img src="img/productos/termoroof/carac_fisicas1.jpeg" alt="TermoIndustrial termoRoof">
                                     </div>
                                 </div>
 
@@ -191,21 +182,16 @@
                                     <ol class="carousel-indicators">
                                         <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
                                         <li data-target="#myCarousel2" data-slide-to="1"></li>
-                                        <li data-target="#myCarousel2" data-slide-to="2"></li>
                                     </ol>
     
                                     <!-- Wrapper for slides -->
                                     <div class="carousel-inner">
                                         <div class="item active">
-                                        <img src="img/slider/3.jpg" alt="Los Angeles">
+                                        <img src="img/productos/termoroof/aplicada1.jpeg" alt="TermoIndustrial termoRoof">
                                         </div>
     
                                         <div class="item">
-                                        <img src="img/slider/3.jpg" alt="Chicago">
-                                        </div>
-    
-                                        <div class="item">
-                                        <img src="img/slider/3.jpg" alt="New York">
+                                        <img src="img/productos/termoroof/aplicada2.jpeg" alt="TermoIndustrial termoRoof">
                                         </div>
                                     </div>
     

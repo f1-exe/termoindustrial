@@ -6,7 +6,10 @@
 function footers(){
     
     $footer =  '<footer>
-                    <div class="footer-area termoindustrial-bg ptb-80">
+                    <div class="footer-bottom-area1">
+
+                    </div>
+                    <div class="footer-area ptb-80">
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-6 col-sm-6">
@@ -22,28 +25,29 @@ function footers(){
 
                                 <div class="col-md-3 col-sm-3">
                                     <div class="widget mb-30">
+                                        <h4 class="text-red">Navegación del sitio</h4>
                                         <div class="widget-title">
-                                            <h4>Navegación del sitio</h4>
+                                           
                                             <div class="address">
                                                 <ul class="list-unstyled">
-                                                    <li><p><a class="text-white" href="index.php"><strong>Inicio</strong></a></p></li> 
-                                                    <li><p><a class="text-white" href="about.php"><strong>Nosotros</strong></a></p></li>
-                                                    <li><p><a class="text-white" href="service.php"><strong>Productos</strong></a></p></li>
-                                                    <li><p><a class="text-white" href="portfolio.php"><strong>Obras</strong></a></p></li>
-                                                    <li><p><a class="text-white" href="contact.php"><strong>Contacto</strong><a></p></li>
+                                                    <li><p><a class="text-black" href="index.php"><strong>Inicio</strong></a></p></li> 
+                                                    <li><p><a class="text-black" href="about.php"><strong>Nosotros</strong></a></p></li>
+                                                    <li><p><a class="text-black" href="service.php"><strong>Productos</strong></a></p></li>
+                                                    <li><p><a class="text-black" href="portfolio.php"><strong>Obras</strong></a></p></li>
+                                                    <li><p><a class="text-black" href="contact.php"><strong>Contacto</strong><a></p></li>
                                                 </ul>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-3 col-sm-3">
+                                    <h4 class="text-red">Información de Contacto</h4>
                                     <div class="widget-title">
-                                        <h4>Información de Contacto</h4>
                                         <div class="address">
                                             <ul class="list-unstyled contact">        
                                                 <li>
                                                     <p>
-                                                        <a class="text-white" href="https://www.instagram.com/invites/contact/?i=zenij2hhbavb&utm_content=4x0yn8s" target="_blank">
+                                                        <a class="text-black" href="https://www.instagram.com/invites/contact/?i=zenij2hhbavb&utm_content=4x0yn8s" target="_blank">
                                                             <strong>
                                                                 <i class="fa fa-instagram"></i>
                                                             </strong> 
@@ -53,7 +57,7 @@ function footers(){
                                                 </li>
                                                 <li>
                                                     <p>
-                                                        <a class="text-white"  href="mailto:ventas@termoindustrial.cl">
+                                                        <a class="text-black" href="mailto:ventas@termoindustrial.cl">
                                                             <strong>
                                                                 <i class="fa fa-envelope"></i>
                                                             </strong>
@@ -63,7 +67,7 @@ function footers(){
                                                 </li>
                                                 <li>
                                                     <p>
-                                                        <a class="text-white" href="https://wa.me/56984398846" target="_blank">
+                                                        <a class="text-black" href="https://wa.me/56984398846" target="_blank">
                                                             <strong>
                                                                 <i class="fa fa-whatsapp"></i> 
                                                             </strong> 
@@ -73,7 +77,7 @@ function footers(){
                                                 </li>
                                                 <li>
                                                     <p>
-                                                        <a class="text-white" href="https://goo.gl/maps/FKchy5M4MT9S88EV8" target="_blank">
+                                                        <a class="text-black" href="https://goo.gl/maps/FKchy5M4MT9S88EV8" target="_blank">
                                                             <strong>
                                                                 <i class="fa fa-map-marker"></i>
                                                             </strong> 
@@ -83,7 +87,7 @@ function footers(){
                                                 </li> 
                                                 <li>
                                                     <p>
-                                                        <a class="text-white" href="tel:+5627846400">
+                                                        <a class="text-black" href="tel:+5627846400">
                                                             <strong>
                                                                 <i class="fa fa-phone"></i>
                                                             </strong>+56 2 2784 6400

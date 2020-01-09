@@ -1427,4 +1427,12 @@ form#search button {
   font-size: 13px;
   margin-bottom: 0;
 }
+
+.footer-bottom-area1 {
+  /* background: #121212 none repeat scroll 0 0; */
+  background: #cd0021 none repeat scroll 0 0;
+  padding: 1px 0;
+}
+
+
 /* css end */
