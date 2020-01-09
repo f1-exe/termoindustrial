@@ -82,14 +82,21 @@ include 'componentes/footer.php';
 								<input type="text" placeholder="telefono" name="telefono">
 							</div>
 							<div class="col-md-12">
-								<textarea id="message" placeholder="Siéntete libre de escribirnos cualquier cosa, dudas, consultas por productos, solicitar cotizaciones, etc. Estamos a tu disposición!" rows="6" cols="30" name="mensaje"></textarea>
+								<textarea id="mensaje" placeholder="Siéntete libre de escribirnos cualquier cosa, dudas, consultas por productos, solicitar cotizaciones, etc. Estamos a tu disposición!" rows="6" cols="30" name="mensaje"></textarea>
 							</div>
 							<div class="col-md-12 text-center">
-								<button class="btn" type="submit">Enviar!</button>
+								<button id="enviar" class="btn">Enviar!</button>
 							</div>
 						</div>
 					</form>
-					<p class="form-message"></p>
+					<br>
+					<br>
+					
+					<div id="cover">
+						<div id="loader"></div>
+					</div>
+					
+					<p id="form-message-response" class="form-message"></p>
 				</div>
 			</div>
 		</div>

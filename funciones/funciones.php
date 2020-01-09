@@ -2,20 +2,24 @@
 
 
 //funcion que envia el correo con el contacto de la pagina
-function enviarCorreoContacto(){
-
+function enviarCorreoContacto($nombre,$telefono,$email,$mensajeDeContacto){
+   
     require_once 'lib/sm/lib/swift_required.php';
   
-    $pEmailGmail = '';
-    $pPasswordGmail = '';
-    $pFromName = ''; //display name
-    $pTo = trim("");
-    $pSubjetc = $asunto;
-    $template = '';
-  
-    $pBody = file_get_contents($template);
-  
-    $transport = Swift_SmtpTransport::newInstance('')
+    $pEmailGmail = 'noreply@termoindustrial.cl';
+    $pPasswordGmail = 'termoindustrial2020.';
+    $pFromName = 'De parte de ventas'; //display name
+    $pTo = trim("noreply@termoindustrial.cl");
+    $pSubjetc = 'Contacto WEB';
+    $cuerpoEmail = '<h3>Ha llegado un nuevo mensaje desde la página web con la siguiente información</h3>
+                    <br>
+                    <ul>
+                      <li>Nombre: '.$nombre.'</li>
+                      <li>Teléfono: '.$telefono.'</li>
+                      <li>Correo: '.$email.'</li>
+                      <li>Mensaje de contacto :<br> '.$mensajeDeContacto.' </li>
+                    </ul>'; 
+    $transport = Swift_SmtpTransport::newInstance('mail.termoindustrial.cl', 587, "tls")
   
             ->setUsername($pEmailGmail)
   
@@ -26,7 +30,7 @@ function enviarCorreoContacto(){
     $mEmail->setSubject($pSubjetc);
     $mEmail->setTo($pTo);
     $mEmail->setFrom(array($pEmailGmail => $pFromName));
-    $mEmail->setBody($pBody, 'text/html');
+    $mEmail->setBody($cuerpoEmail, 'text/html');
   
     if($mMailer->send($mEmail) == 1){
       return true;

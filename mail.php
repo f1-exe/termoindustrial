@@ -1,53 +1,38 @@
 <?php
+include 'funciones/funciones.php';
 
     // Only process POST reqeusts.
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // Get the form fields and remove whitespace.
-        $name = strip_tags(trim($_POST["name"]));
-				$name = str_replace(array("\r","\n"),array(" "," "),$name);
+        $nombre = strip_tags(trim($_POST["nombre"]));
+				$nombre = str_replace(array("\r","\n"),array(" "," "),$nombre);
         $email = filter_var(trim($_POST["email"]), FILTER_SANITIZE_EMAIL);
-        $subject = trim($_POST["subject"]);
-        $message = trim($_POST["message"]);
+        $telefono = trim($_POST["telefono"]);
+        $mensaje = trim($_POST["mensaje"]);
 
         // Check that data was sent to the mailer.
-        if ( empty($name) OR empty($subject) OR empty($message) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
+        if ( empty($nombre) OR empty($mensaje) OR empty($telefono) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
             // Set a 400 (bad request) response code and exit.
             http_response_code(400);
-            echo "Please complete the form and try again.";
+            echo "*Todos los campos del formulario son obligatorios, asegúrese de llenarlos antes de volver a enviar el formulario.";
             exit;
         }
 
-        // Set the recipient email address.
-        // FIXME: Update this to your desired email address.
-        $recipient = "admin@ThemePure.com";
-
-        // Set the email subject.
-        $subject = "New contact from $name";
-
-        // Build the email content.
-        $email_content = "Name: $name\n";
-        $email_content .= "Email: $email\n\n";
-        $email_content .= "Subject: $subject\n\n";
-        $email_content .= "Message:\n$message\n";
-
-        // Build the email headers.
-        $email_headers = "From: $name <$email>";
-
         // Send the email.
-        if (mail($recipient, $subject, $email_content, $email_headers)) {
+        if (enviarCorreoContacto($nombre,$telefono,$email,$mensaje)) {
             // Set a 200 (okay) response code.
             http_response_code(200);
-            echo "Thank You! Your message has been sent.";
+            echo "Gracias! Tu mensaje de contacto ha sido enviado exitosamente.";
         } else {
             // Set a 500 (internal server error) response code.
             http_response_code(500);
-            echo "Oops! Something went wrong and we couldn't send your message.";
+            echo "Oops! Algo salió mal y no pudimos enviar tu mensaje, refresca el navegador e intenta nuevamente.";
         }
 
     } else {
         // Not a POST request, set a 403 (forbidden) response code.
         http_response_code(403);
-        echo "There was a problem with your submission, please try again.";
+        echo "Hubo un porblema con tu mensaje de contacto, asegúrate de enviarlo presionando el boton y no de otra manera.";
     }
 
 ?>
